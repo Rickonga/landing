@@ -1,0 +1,22 @@
+/*Banner style*/
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.banner p {
+  color white;
+  opacity: .9;
+  font-size: 20px;
+  margin-bottom: 30px;
+}

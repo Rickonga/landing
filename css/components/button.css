@@ -1,0 +1,15 @@
+/*Button style*/
+
+.btn-red {
+  background-color: #eb4559;
+  color: white;
+  opacity: 0.8;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.btn-red:hover {
+  opacity: 1;
+  transition: .3s;
+}

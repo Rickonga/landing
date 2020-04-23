@@ -1,0 +1,36 @@
+/*Card product*/
+
+.card {
+  width: 600px;
+  margin: 20px auto;
+}
+
+.card-product {
+  height: 150px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: white;
+  color: black;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+.card-product img {
+  width: 150px;
+/*  object-fit: cover;
+*/  background-position: center;
+  background-size: cover;
+}
+
+.card-product-infos {
+  padding: 20px;
+}
+
+.card-product-infos h4 {
+  color: green;
+}
+
+
+.card-product-infos p {
+  font-size: 13px;
+}

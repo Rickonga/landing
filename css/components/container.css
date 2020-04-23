@@ -1,0 +1,26 @@
+.container {
+  color: white;
+  position: center;
+  width: 800px;
+  margin: auto;
+}
+
+.text-center {
+  text-align: center;
+  color: black;
+}
+
+.container h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container h3 {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 10px;
+  color: yellow;
+  background-color: #ff0054;
+  border-radius: 50px;
+  justify-content: center;
+}
